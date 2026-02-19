@@ -1,3 +1,6 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 💫 About Me<br><br>🔭 Currently working on: End-to-end software and machine learning systems, including scalable backend services, data platforms, and production-grade ML pipelines.<br>👯 Open to collaborating on: AI/ML projects, backend systems, data engineering, and developer tools with real-world impact.<br>🌱 Currently learning: Distributed systems, backend architecture, and ML systems design.<br>💬 Ask me about: Software engineering, system design, APIs, databases, PyTorch, FastAPI, SQL, Docker, and applied machine learning research.<br> An active ML researcher with peer-reviewed publications, interested in translating research ideas into reliable, deployable systems.
 I enjoy translating research ideas into production-ready solutions and building systems that are reliable, efficient and user-centered. I am currently seeking a Software Engineering or Machine Learning internship starting May 2026.
 
